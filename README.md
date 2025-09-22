@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Mevan 👋</h1>
 <p align="center">
   <b>Mechatronics Engineering @ University of Waterloo</b><br/>
-  Building full-stack apps, ML/AI tooling, and automation systems.
+  Building AI Agents and Full-stack apps + AI research  
 </p>
 
 <p align="center">
