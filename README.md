@@ -17,4 +17,4 @@
 
 ### 📫 Get in touch
 - Email: <a href="mailto:mtfsolan@uwaterloo.ca">mtfsolan@uwaterloo.ca</a>  
-- Portfolio: <a href="https://solanga.app" target="_blank">solanga.app</a>
+- Portfolio: <a href="https://solanga.vercel.app" target="_blank">solanga.app</a>
